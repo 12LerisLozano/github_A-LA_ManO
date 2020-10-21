@@ -1,0 +1,24 @@
+{
+  "name": "github_A-LA_ManO",
+  "version": "1.0.0",
+  "description": "CREACION DE UNA APLICACION, API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/12LerisLozano/github_A-LA_ManO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/12LerisLozano/github_A-LA_ManO/issues"
+  },
+  "homepage": "https://github.com/12LerisLozano/github_A-LA_ManO#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
